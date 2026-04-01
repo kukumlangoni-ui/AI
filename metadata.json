@@ -1,0 +1,5 @@
+{
+  "name": "STEA AI Agent",
+  "description": "Tanzania's Tech Assistant - A Swahili and English AI companion for technology and coding.",
+  "requestFramePermissions": ["microphone"]
+}
