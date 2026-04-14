@@ -9,3 +9,8 @@ coverage/
 .env.production
 !.env.example
 firebase-applet-config.json
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
